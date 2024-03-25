@@ -454,7 +454,7 @@ Toshiyuki Arai @antillia.com<br>
 https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp
 </pre>
 
-<b>7. TensorflowSharpUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+<b>8. TensorflowSharpUNet-Segmentation-Gastrointestinal-Polyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowSharpUNet-Image-Segmentation-Augmented-GastrointestinalPolyp
