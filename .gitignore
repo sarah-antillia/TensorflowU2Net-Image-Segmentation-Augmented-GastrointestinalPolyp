@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 2024/03/20
+dataset/GastrointestinalPolyp/train/
+dataset/GastrointestinalPolyp/valid/
+
+projects/*/*/models/
+
+projects/*/*/generated_images_dir/
+projects/*/*/generated_masks_dir/
+
 # C extensions
 *.so
 
@@ -158,3 +167,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
