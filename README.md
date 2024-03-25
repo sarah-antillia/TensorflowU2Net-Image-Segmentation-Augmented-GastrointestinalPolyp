@@ -1,0 +1,2 @@
+# TensorflowU2Net-Image-Segmentation-Augmented-GastrointestinalPolyp
+TensorflowU2Net Image Segmentation for GastrointestinalPolyp based on Online Augmentation
